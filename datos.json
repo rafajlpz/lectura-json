@@ -1,6 +1,10 @@
 {
     "Nombre": "Rafael Idrogo Lopez",
     "Edad": 28,
+    "Contacto":{
+        "Email": "frilo_94@hotmail.com",
+        "tlf": 648706727
+    },
     "Programacion": {
         "front": "Front-end developer",
         "back": "Back-end developer"
