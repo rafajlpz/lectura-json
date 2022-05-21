@@ -18,5 +18,9 @@
         "Titulo2": "EMPRENDIMIENTO Y VIDEOJUEGOS",
         "Titulo3": "TÉCNICO GESTIÓN ADMINISTRATIVA",
         "Titulo4": "DESARROLLO DE PRODUCTOS AUDIOVISUALES MULTIMEDIA INTERACTIVOS"
-    }  
+    },
+    
+    "Experiencia":{
+        "Exp1": "Auxiliar administrativo en Adantia S.L ejerciendo las funciones de: archivación y documentación, introducción de datos, analíticas y autoliquidaciones.",
+        "Exp1": "Programador de aplicaciones informáticas en Cersia EMPRESA, elaborando una APP multiplataforma, entre otros proyectos."
 }
