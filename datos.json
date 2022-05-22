@@ -10,8 +10,8 @@
         "back": "Back-end developer"
     },
     "Descripcion": {
-        "SobreMi": "Soy un chico de 28 años con experiencia en administración. Amante de las nuevas tecnologías y juegos online, siendo antiguo jugador 'profesional' de Counter-Strike después de haberme montado mi propio ordenador a piezas. Amplios conocimientos en el mundo de los 'e-Sports'. Ahora me dedico a picar código siendo un intento de programador junior con conocimientos de lenguajes front-end y uso básico de BBDD.
-        "FrontDescripcion": "Conocimientos Html5, Css3, JavaScript, Vue. Cara servidor MariaDB, MySQL y PHP. Manejo de Unity3D básico con C#. Realizada la construcción de una APP de árboles singulares de Galicia, para el Concello de Santiago, siendo capaz de introducir mapa de Google y geolocalización, diseño, base de datos Firebase y corrección de errores, entre otros. Participante activo en el proyecto 'Manda Carballo' haciendo el seguimiento de las redes sociales y construcción de páginas y videos generales.
+        "SobreMi": "Soy un chico de 28 años con experiencia en administración. Amante de las nuevas tecnologías y juegos online, siendo antiguo jugador 'profesional' de Counter-Strike después de haberme montado mi propio ordenador a piezas. Amplios conocimientos en el mundo de los 'e-Sports'. Ahora me dedico a picar código siendo un intento de programador junior con conocimientos de lenguajes front-end y uso básico de BBDD."
+        "FrontDescripcion": "Conocimientos Html5, Css3, JavaScript, Vue. Cara servidor MariaDB, MySQL y PHP. Manejo de Unity3D básico con C#. Realizada la construcción de una APP de árboles singulares de Galicia, para el Concello de Santiago, siendo capaz de introducir mapa de Google y geolocalización, diseño, base de datos Firebase y corrección de errores, entre otros. Participante activo en el proyecto 'Manda Carballo' haciendo el seguimiento de las redes sociales y construcción de páginas y videos generales."
     },
     "Formacion": {
         "Titulo1": "Desarrollo de aplicaciones con tecnologías web",
