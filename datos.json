@@ -11,7 +11,7 @@
     },
     "Descripcion": {
         "SobreMi": "Soy un chico de 28 a;os con experiencia en administracion. Amante de las nuevas tecnologias y juegos online, siendo antiguo jugador 'profesional' de  Counter-Strike despues de haberme montado mi propio ordenador a piezas. Amplios conocimientos en el mundo de los 'e-Sports'. Ahora me dedico a picar codigo siendo un intento de programador junior con conocimientos de lenguajes front-end y uso basico de BBDD.",
-        "FrontDescripcion": "Conocimientos HTML5, CSS3, JAVASCRIPT, VUE.  Manejo de MariaDB, MySQL y PHP"
+        "FrontDescripcion": "Conocimientos Html5, Css3, JavaScript, Vue.  Manejo de MariaDB, MySQL y PHP. Realiazada la construccion de una APP de arboles singulares de Galicia, para el Concello de Santiago, siendo capaz de introducir mapa de Google y geolocalizacion, diseño, base de datos Firebase y correcion de errores entre otros. Participante activo en el proyecto 'Manda Carballo' realizando el seguimiento de las redes sociales y contruccion de paginas y videos generales."
     },
     "Formacion": {
         "Titulo1": "Desarrollo de aplicaciones con tecnologías web",
